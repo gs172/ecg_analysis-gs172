@@ -1,7 +1,6 @@
 import csv
 import numpy as np
 from numpy import isnan
-import matplotlib.pyplot as plt
 from scipy.signal import find_peaks
 from scipy.signal import butter, lfilter
 from scipy.signal import freqz
